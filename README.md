@@ -5,7 +5,7 @@
   
  
  ## 🔮 Future:
- <h4> А нету блядь.<br> Search IP-Adress 'SSH/APPACHE AND OTHER SHIT' </h4>
+ <h4>Search IP-Adress 'SSH/APPACHE AND OTHER SHIT' </h4>
  
  
  
