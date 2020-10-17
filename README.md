@@ -7,7 +7,19 @@
  ## 🔮 Future:
  <h4>Search IP-Adress 'SSH/APPACHE AND OTHER SHIT' </h4>
  
+<br> 
+
+ ## 🧷 Installing:
  
+ ``` bash 
+ 
+ git clone https://github.com/l0qi/RedEye.git
+ cd RedEye
+ pip install -r requirements.txt
+ python main.py
+ 
+ ``` 
+ <br>
  
  ## 🦠 Logs:
  
